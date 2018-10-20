@@ -1,5 +1,5 @@
 _repo: The-Diary-and-Letters-of-Madame-D-Arblay-Volume-2_6042
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -35,5 +35,6 @@ subjects:
 - !lcsh 'Burney, Fanny, 1752-1840 -- Diaries'
 - !lcsh 'Great Britain -- Court and courtiers -- History -- 18th century'
 - !lcsh 'Novelists, English -- 19th century -- Correspondence'
+- GITenberg
 title: The Diary and Letters of Madame D'Arblay — Volume 2
 url: http://www.gutenberg.org/ebooks/6042
